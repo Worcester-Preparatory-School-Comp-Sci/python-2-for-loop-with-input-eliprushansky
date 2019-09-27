@@ -1,3 +1,4 @@
+#ELI PRUSHANSKY 270919
 def pigLatin():
     x = input("what word?")
     changedConsonant = x[1:]+x[0]+"ay"
